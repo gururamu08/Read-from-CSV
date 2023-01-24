@@ -33,3 +33,4 @@ print("rows", len(df.axes[1]))
 ![output](/Screenshot%202023-01-24%20105630.jpg)
 
 ## RESULT:
+A python program to read data from CSV files has been created successfully.
